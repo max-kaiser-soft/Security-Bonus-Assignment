@@ -2,11 +2,11 @@
 Class assignment that simulates a Unicode stream cipher
 
 # Files
-[Encrypt Program (bonusEncrypt.cpp)](https://github.com/max-kaiser-soft/Security-Bonus-Assignment/blob/main/bonusEncrypt.cpp)
+[Encrypt Program (bonusEncrypt.cpp)](https://github.com/max-kaiser-soft/Unicode-Stream-Cipher-Simulation/blob/main/bonusEncrypt.cpp)
 
-[Decrypt Program (bonusDecrypt.cpp)](https://github.com/max-kaiser-soft/Security-Bonus-Assignment/blob/main/bonusDecrypt.cpp)
+[Decrypt Program (bonusDecrypt.cpp)](https://github.com/max-kaiser-soft/Unicode-Stream-Cipher-Simulation/blob/main/bonusDecrypt.cpp)
 
-[Sample Letter File (letter.txt)](https://github.com/max-kaiser-soft/Security-Bonus-Assignment/blob/main/letter.txt)
+[Sample Letter File (letter.txt)](https://github.com/max-kaiser-soft/Unicode-Stream-Cipher-Simulation/blob/main/letter.txt)
 
 
 # Directions
